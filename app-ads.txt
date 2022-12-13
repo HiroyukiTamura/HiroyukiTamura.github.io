@@ -7,3 +7,4 @@ pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
 pubmatic.com, 157962, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158853, RESELLER, 5d62403b186f2ace
 facebook.com, 2877375559198237, RESELLER, c3e20eee3f780d68
+app-ads.text：fivecdm.com,12108195,DIRECT
