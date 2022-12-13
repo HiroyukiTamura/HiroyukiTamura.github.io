@@ -7,4 +7,11 @@ pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
 pubmatic.com, 157962, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158853, RESELLER, 5d62403b186f2ace
 facebook.com, 2877375559198237, RESELLER, c3e20eee3f780d68
-app-ads.text：fivecdm.com,12108195,DIRECT
+fivecdm.com,12108195,DIRECT
+onetag.com, 7c3707b204cfd25, DIRECT
+onetag.com, 7c3707b204cfd25-OB, DIRECT
+appnexus.com, 13099, RESELLER
+yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4111, RESELLER
